@@ -1,8 +1,7 @@
-print("Я конфликтую")
 for i in range():
     print("Hello World")
 
-a,b = 1,2
+a,b = 1,10
 
 if a > b:
     print("a > b")
