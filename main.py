@@ -1,4 +1,4 @@
-for i in range():
+for i in range(10):
     print("Hello World")
 
 a,b = 1,10
