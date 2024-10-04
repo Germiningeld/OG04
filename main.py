@@ -1,11 +1,11 @@
 print("Я конфликтую")
 
 
-a,b = 1,2
+a,с = 1,2
 
-if a > b:
+if a > с:
     print("a > b")
-elif a < b:
+elif a < с:
     print("a < b")
 else:
     print("a == b")
