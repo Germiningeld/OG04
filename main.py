@@ -1,5 +1,7 @@
-a = 7 # Получение переменной
-b = 9
+for i in range():
+    print("Hello World")
+
+a,b = 1,2
 
 if a > b:
     print("a > b")
