@@ -1,11 +1,8 @@
-for i in range(10):
-    print("Hello World")
-
 a,b = 1,10
 
 if a > b:
-    print("a > b")
+    print("a больше b")
 elif a < b:
-    print("a < b")
+    print("a меньше b")
 else:
-    print("a == b")
+    print("a равно b")
